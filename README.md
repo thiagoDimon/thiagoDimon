@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi! I am Thiago Dimon Miranda 👋</h1>
   - 📚 I'm currently studying Software Engineering at Unisatc <br>
-  - 🔭 Studying: Vue, TypeScript, Java, PL/SQL <br>
+  - 🔭 Studying: Vue.js, TypeScript, Java, PL/SQL <br>
 </div>
 
  <div align="center"><br>
