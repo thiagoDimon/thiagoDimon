@@ -54,15 +54,13 @@ Sólida atuação em análise de sistemas, resolução de incidentes, cultura de
 
 <div align="center">
 
+<img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Vue.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Spring Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 <img align="center" alt="Quarkus" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg">
-<img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Vue.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 <img align="center" alt="SQL Server" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 <img align="center" alt="Oracle PL/SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-<img align="center" alt="JUnit" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg">
-<img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 </div>
 
