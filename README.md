@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Analista de Sistemas formado em Engenharia de Software, atuando com desenvolvimento full stack, qualidade de código e cultura de code review.
+Formado em Engenharia de Software pelo Centro Universitário UniSATC, atuando como Analista de Sistemas com foco em desenvolvimento full stack, qualidade de código e cultura de code review.
 
 ---
 
